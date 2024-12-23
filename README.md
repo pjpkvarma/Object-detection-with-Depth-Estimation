@@ -1,4 +1,4 @@
-# Object-detection-with-Depth-Estimation
+# Object Detection with Depth Estimation
 
 This project develops a cost-effective and lightweight framework for object detection and depth estimation using a single camera. By integrating YOLOv5 for object detection and a custom neural network for distance estimation, the system achieves robust real-time performance. This approach eliminates the need for expensive multi-sensor setups like LiDAR, making it ideal for low-cost autonomous systems.
 
@@ -36,6 +36,14 @@ This project develops a cost-effective and lightweight framework for object dete
 ### Environmental Robustness
 - Trained on augmented datasets with added noise and blur to simulate challenging conditions like fog and low light.
 - Demonstrates strong robustness against adverse weather in real-world applications.
+
+---
+
+## 🌟 Results
+### Visualization Example:
+Below is an example image of the system output, showing object detection with bounding boxes and depth estimation:
+
+![Detected Car with Depth](007505.png)
 
 ---
 
