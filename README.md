@@ -43,7 +43,7 @@ This project develops a cost-effective and lightweight framework for object dete
 ### Visualization Example:
 Below is an example image of the system output, showing object detection with bounding boxes and depth estimation:
 
-![Detected Car with Depth](007505.png)
+![Detected Car with Depth](self_image2.png)
 
 ---
 
